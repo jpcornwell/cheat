@@ -1,0 +1,23 @@
+
+COMMANDS
+
+Debian/Ubuntu
+
+To search packages
+  apt search <query>
+
+To give detailed info on a package
+  apt show <package-name>
+
+To install a package
+  apt install <package-name>
+
+To remove a package
+  apt remove <package-name>
+
+
+OVERVIEW
+
+TODO: Go over differences between APT, apt-get/apt-cache, apt, dpkg.
+      Also mention some other front ends like synaptic.
+
